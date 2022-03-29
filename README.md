@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @YurkoJurko, I'm from Ukraine and I'm 16 
+- 👋 Hi, I’m @YurkoJurko, I'm from Ukraine and I'm 16
+<hr color="purple" width="400" size="6" noshade align="left"/>
 - 👀 I’m interested in reading 
-- 🌱 I’m currently learning HTML and programming at general
-- 💞️ I’m looking to collaborate on studying together
+- 🌱 I’m currently learning <em><strong>HTML and programming at general</strong></em>
+- 💞️ I’m looking to collaborate on studying <strong>together</strong>
 - 📫 How to reach me discord @Быдлан#5832
 
 <!---
