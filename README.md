@@ -3,7 +3,6 @@
 <p>- 👀 I’m interested in reading</p> 
 <p>- 🌱 I’m currently learning <em><strong>HTML and programming at general</strong></em></p>
 <p>- 💞️ I’m looking to collaborate on studying <strong>together</strong></p>
-<p>- 📫 How to reach me discord @Быдлан#5832</p>
 
 <!---
 YurkoJurko/YurkoJurko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
